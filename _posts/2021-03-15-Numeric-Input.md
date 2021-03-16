@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Working with GitHub
+title: Numeric input and keyboard on mobile
 tags: html css
 category: html and css
 ---
-# Numeric input and keyboard on mobile
 
 It's really anoying when trying to enter numeric data in a web page/app from a mobile device using a virtual keyboard.
 
