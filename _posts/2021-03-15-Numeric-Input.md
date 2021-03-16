@@ -2,6 +2,7 @@
 layout: post
 title: Working with GitHub
 tags: html css
+category: html and css
 ---
 # Numeric input and keyboard on mobile
 
@@ -19,8 +20,8 @@ The ```pattern="[0-9]*"``` attribute makes the trick of showing the numeric virt
 
 The ```inputmode="decimal"``` attribute is important, otherwise, in iPhone it will not include the decimal point.
 
-![Without inputmode attribute](../images/2021-03-15-Numeric-Input/numeric-input-02.jpeg)
-![With inputmode attribute](../images/2021-03-15-Numeric-Input/numeric-input-01.jpeg)
+![Without inputmode attribute](/images/posts/2021-03-15-Numeric-Input/numeric-input-02.jpeg)
+![With inputmode attribute](../images/posts/2021-03-15-Numeric-Input/numeric-input-01.jpeg)
 
 
 
